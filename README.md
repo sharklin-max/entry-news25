@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/news-image-20261125/sharklin-max/entry-news25/rank.svg)](https://make.fun/bounty/news-image-20261125/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
 [![reward](https://make.fun/badge/news-image-20261125/sharklin-max/entry-news25/reward.svg)](https://make.fun/bounty/news-image-20261125?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
 
-Tuesday 25 November 2026: 50 sourced stories, a UTC timeline and 9 regions — Huang's rally fades, Huawei guilty, Chen falls
+Wednesday 25 November 2026: 50 sourced stories, a UTC timeline and 10 regions — tariffs hit 14 nations, Pakistan's first astronaut, Cairo tanker fire
 
 ## Run it
 
